@@ -2,52 +2,21 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'Password Manager';
 ?>
 <div class="site-index">
 
-    <div class="jumbotron">
-        <h1>Congratulations!</h1>
-
-        <p class="lead">You have successfully created your Yii-powered application.</p>
-
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
-    </div>
-
     <div class="body-content">
 
-        <div class="row">
-            <div class="col-lg-4">
-                <h2>Heading</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus cras adipiscing enim eu turpis egestas. In arcu cursus euismod quis viverra nibh. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. Tellus id interdum velit laoreet id donec ultrices. Lectus urna duis convallis convallis tellus id. Consequat interdum varius sit amet mattis vulputate enim. Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Dignissim convallis aenean et tortor. Commodo odio aenean sed adipiscing. Tempor orci dapibus ultrices in iaculis. Orci ac auctor augue mauris augue neque gravida in fermentum. Consectetur purus ut faucibus pulvinar elementum integer enim. Posuere morbi leo urna molestie at elementum eu facilisis. Tellus in metus vulputate eu. Malesuada fames ac turpis egestas integer eget. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Non pulvinar neque laoreet suspendisse interdum. Ut sem viverra aliquet eget sit amet. Duis ut diam quam nulla.</p>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>Nulla porttitor massa id neque. Facilisi nullam vehicula ipsum a. Massa id neque aliquam vestibulum morbi blandit cursus risus. Non odio euismod lacinia at quis. Sed risus pretium quam vulputate dignissim suspendisse in. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Mi sit amet mauris commodo quis imperdiet massa tincidunt nunc. Dictum varius duis at consectetur lorem donec. Risus pretium quam vulputate dignissim suspendisse in est. Egestas quis ipsum suspendisse ultrices gravida dictum. Nisl suscipit adipiscing bibendum est. Libero id faucibus nisl tincidunt eget nullam.</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
-            </div>
-            <div class="col-lg-4">
-                <h2>Heading</h2>
+                <p>Mauris vitae ultricies leo integer. Tristique senectus et netus et malesuada fames ac turpis. Aliquam ut porttitor leo a. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Scelerisque eu ultrices vitae auctor eu augue ut lectus arcu. Sit amet mauris commodo quis imperdiet massa tincidunt. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Aliquam vestibulum morbi blandit cursus risus. Euismod quis viverra nibh cras. Tristique magna sit amet purus gravida quis blandit turpis. Gravida quis blandit turpis cursus in hac. Nec tincidunt praesent semper feugiat nibh sed. Pellentesque sit amet porttitor eget. Sed velit dignissim sodales ut eu. Laoreet id donec ultrices tincidunt arcu non. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. In aliquam sem fringilla ut morbi tincidunt augue interdum.</p>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>Netus et malesuada fames ac turpis. Mauris cursus mattis molestie a. Integer eget aliquet nibh praesent tristique magna sit amet. Dis parturient montes nascetur ridiculus mus mauris. Eu sem integer vitae justo eget magna fermentum iaculis. Vitae proin sagittis nisl rhoncus mattis rhoncus. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Nec ultrices dui sapien eget mi. Ultrices sagittis orci a scelerisque. Tincidunt eget nullam non nisi est. Accumsan sit amet nulla facilisi morbi tempus. Lacus sed turpis tincidunt id. Aliquet bibendum enim facilisis gravida neque convallis. Adipiscing vitae proin sagittis nisl rhoncus. Viverra aliquet eget sit amet tellus cras adipiscing. Amet est placerat in egestas erat imperdiet. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis.</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
-            </div>
-            <div class="col-lg-4">
-                <h2>Heading</h2>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
-
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
-            </div>
-        </div>
+                <p>Etiam non quam lacus suspendisse faucibus interdum posuere. Amet luctus venenatis lectus magna fringilla urna. Nisi vitae suscipit tellus mauris. Amet commodo nulla facilisi nullam vehicula ipsum. Congue eu consequat ac felis. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Vestibulum mattis ullamcorper velit sed. Tempor nec feugiat nisl pretium fusce. Id diam maecenas ultricies mi eget mauris pharetra et. Aenean euismod elementum nisi quis eleifend quam. Varius duis at consectetur lorem donec massa sapien faucibus et. Vitae tortor condimentum lacinia quis vel eros donec. Sed blandit libero volutpat sed cras ornare arcu. Sem viverra aliquet eget sit. Cursus mattis molestie a iaculis at erat pellentesque. Ultrices tincidunt arcu non sodales neque sodales ut. Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.</p>
 
     </div>
 </div>
