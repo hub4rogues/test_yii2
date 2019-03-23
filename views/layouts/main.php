@@ -17,7 +17,7 @@ AppAsset::register($this);
 <html lang="<?= Yii::$app->language ?>">
 <head>
 
-    <link rel="shortcut icon" href="<?php echo Yii::$app->getHomeUrl(); ?>/logo.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="<?php echo Yii::$app->getHomeUrl(); ?>/logo.ico" type="image/x-icon" />
 
     <meta charset="<?= Yii::$app->charset ?>">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
