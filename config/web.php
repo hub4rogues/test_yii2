@@ -5,8 +5,8 @@ $db = require __DIR__ . '/db.php';
 
 $config = [
     'id' => 'basic',
-    'name' => 'PassMan',
-    'homeUrl' => '#',
+    'name' => 'Store your login',
+    'homeUrl' => 'http://localhost:8080/index.php?r=site/hello',
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'aliases' => [
