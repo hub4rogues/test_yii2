@@ -129,4 +129,21 @@ class SiteController extends Controller
     {
         return $this->render('this');
     }
+
+    public function actionAdd()
+    {
+            $model = User::find()->where(['username' => 'admin'])->one();
+            if (empty($model))
+            {
+                    $user = new User();
+                    $user->username = 'admin';
+                    $user->email = 'какой@то.маил';
+                    $user->setPassword('2244');
+                    $user->generateAuthKey();
+                    if ($user->save())
+                    {
+                            echo 'good';
+                    }
+            }
+    }
 }

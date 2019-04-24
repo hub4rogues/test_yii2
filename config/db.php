@@ -1,8 +1,10 @@
 <?php
 
+$_database_way = realpath(__DIR__."/../data")."/sqlite_data.db";
+
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'sqlite:'.__DIR__ . '/sqlite.db',
+    'dsn' => 'sqlite:' . $_database_way,
     'username' => 'root',
     'password' => '',
     'charset' => 'utf8',
